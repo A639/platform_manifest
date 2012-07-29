@@ -3,6 +3,8 @@
 
   <remote  name="aosp"
            fetch=".." />
+  <remote  name="a639"
+           fetch="git://github.com/A639/" />
   <default revision="refs/tags/android-1.6_r1"
            remote="aosp"
            sync-j="4" />
