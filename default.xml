@@ -149,5 +149,6 @@
 
   <project path="vendor/htc/dream-open" name="platform/vendor/htc/dream-open" />
   <project path="vendor/sample" name="platform/vendor/sample" />
+  <project path="vendor/asus" name="vendor_asus" remote="a639" revision="donut-a639" />
 
 </manifest>
